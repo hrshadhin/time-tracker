@@ -31,3 +31,6 @@ This should make your application available on this URL: http://127.0.0.1:8000. 
 
 # Screenshot
 <img src="public/img/snap.png" >
+
+# DEMO
+<a href="http://hrstt.herokuapp.com" target="_blank">Here</a>
